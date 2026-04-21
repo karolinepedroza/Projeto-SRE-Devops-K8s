@@ -107,7 +107,7 @@ python3 hello.py
 
 As imagens utilizadas no projeto são publicadas no Docker Hub:
 
-👉 *(adicione aqui o seu link)*
+👉 [Docker Hub - Karoline Pedroza](https://hub.docker.com/u/karolinepedroza)
 
 ---
 
